@@ -8,7 +8,7 @@ public class Customer {
         this.customerName = customerName;
         this.customerAddress = customerAddress;
     }
-//
+// Test
     public String getCustomerName() {
         return customerName;
     }
